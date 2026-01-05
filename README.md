@@ -44,9 +44,3 @@ Designed analytical queries and dashboards to surface core KPIs, enabling cleare
 **Automation Tools:** n8n, LLM integrations  
 **Version Control:** Git, GitHub  
 
----
-
-## GitHub Overview
-
-<p>
-  <img height="160" src="https://github-
