@@ -1,49 +1,67 @@
-# Kruthi  
-### Data & Analytics Engineering | Applied Machine Learning | Cloud Automation
+# Kruthi
 
-I design and implement scalable data pipelines, analytical models, and machine learning systems that support reliable, data-driven decision making. My focus is on building robust architecture, automating processes, and delivering measurable business impact through data and ML workflows.
+### Business Intelligence Engineer | Product Analytics | AI Automation
+
+I build scalable data platforms, analytics solutions, and AI-powered systems that help organizations make smarter decisions, improve operational efficiency, and drive business growth.
+
+My experience spans analytics engineering, business intelligence, machine learning, and AI automation—transforming complex data into actionable insights through cloud-native data platforms, predictive analytics, and intelligent workflows.
 
 ---
 
 ## Core Areas of Expertise
 
-- **Data Engineering & Analytics**
-  - ELT pipelines (dbt, Airflow, Redshift, BigQuery)
-  - SQL modeling, data quality, documentation, KPI development
+### Product & Business Analytics
 
-- **Machine Learning & MLOps**
-  - Model development & evaluation (SageMaker, scikit-learn)
-  - Automated feature engineering, hyperparameter tuning, real-time inference endpoints
-  - Experiment tracking & model lifecycle management (MLflow)
-  - Model performance monitoring & observability (Prometheus-based metrics and alerting)
+* KPI design and performance measurement
+* Customer behavior and lifecycle analytics
+* Revenue and pricing analytics
+* Experimentation and decision support
+* Executive reporting and dashboards
 
+### Analytics Engineering
 
-- **Cloud & Automation**
-  - AWS (S3, IAM, Lambda, SageMaker)
-  - Workflow automation using n8n + LLMs
+* Data modeling and transformation (dbt)
+* Workflow orchestration (Airflow)
+* Data quality and governance
+* Cloud data platforms (AWS, Snowflake, BigQuery)
+* Scalable analytics infrastructure
+
+### Machine Learning & AI
+
+* Predictive analytics and model development
+* AWS SageMaker and Scikit-learn
+* LLM applications and RAG systems
+* AI-powered reporting and insight generation
+* Workflow automation with n8n
 
 ---
 
 ## Selected Projects
 
-### **End-to-End Churn Prediction System (AWS)**
-Developed an automated ML pipeline using SageMaker Autopilot, deployed a real-time inference endpoint, and managed data workflows with S3 and IAM.
+### Customer Analytics Pipeline
 
-### **Real-Time Fraud Detection Platform**
-Developed a real-time fraud detection system with MLflow-managed models deployed on Kubernetes.
+Designed and deployed an end-to-end AWS SageMaker pipeline for customer risk assessment, enabling automated training, model deployment, and real-time predictions.
 
-### **LLM-Powered Text-to-SQL & KPI Reporting System**
-Developed an AI-powered text-to-SQL system to automate KPI reporting and dashboard generation, improving cross-functional decision visibility.
+### Real-Time Risk Detection Platform
+
+Built a scalable ML platform with MLflow model management, Kubernetes deployment, and real-time inference monitoring.
+
+### Intelligent KPI Reporting Assistant
+
+Developed an LLM-powered analytics assistant that converts natural language questions into SQL queries and automated KPI reports.
 
 ---
 
 ## Technical Skills
 
-**Languages:** Python, SQL  
-**Data Engineering:** dbt, Airflow, Redshift, BigQuery  
-**ML & MLOps:** SageMaker, scikit-learn, Pandas  
-**Cloud:** AWS (S3, IAM, Lambda, SageMaker)  
-**Analytics:** KPI modeling, dashboarding (Metabase)  
-**Automation Tools:** n8n, LLM integrations  
-**Version Control:** Git, GitHub  
+**Languages:** Python, SQL, R
 
+**Data & Cloud:** AWS, Snowflake, BigQuery, dbt, Airflow
+
+**Machine Learning:** Scikit-learn, SageMaker, MLflow, XGBoost
+
+**Analytics:** Tableau, Looker, KPI Frameworks, Experimentation
+
+**AI & Automation:** LangChain, LLMs, RAG, n8n
+
+**Developer Tools:** Git, GitHub
