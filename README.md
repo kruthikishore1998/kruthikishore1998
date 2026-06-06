@@ -46,7 +46,7 @@ Designed and deployed an end-to-end AWS SageMaker pipeline for customer risk ass
 
 Built a scalable ML platform with MLflow model management, Kubernetes deployment, and real-time inference monitoring.
 
-### Intelligent KPI Reporting Assistant
+### Smart PDF Processing with-LangChain-LLM 
 
 Developed an LLM-powered analytics assistant that converts natural language questions into SQL queries and automated KPI reports.
 
@@ -56,7 +56,7 @@ Developed an LLM-powered analytics assistant that converts natural language ques
 
 **Languages:** Python, SQL, R
 
-**Data & Cloud:** AWS, Snowflake, BigQuery, dbt, Airflow
+**Data & Cloud:** AWS, BigQuery, dbt, Airflow
 
 **Machine Learning:** Scikit-learn, SageMaker, MLflow, XGBoost
 
@@ -64,4 +64,4 @@ Developed an LLM-powered analytics assistant that converts natural language ques
 
 **AI & Automation:** LangChain, LLMs, RAG, n8n
 
-**Developer Tools:** Git, GitHub
+**Developer Tools:**  GitHub
