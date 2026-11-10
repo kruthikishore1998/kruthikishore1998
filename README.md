@@ -1,6 +1,6 @@
 # Kruthi
 
-### Business Intelligence Engineer | Product Analytics | AI Automation
+### Analytics Engineer | Business Intelligence Engineer | AI Automation
 
 I build scalable data platforms, analytics solutions, and AI-powered systems that help organizations make smarter decisions, improve operational efficiency, and drive business growth.
 
